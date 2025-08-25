@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(165, 100, 122);
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+    box-sizing: border-box;
+}
+ul{
+    text-align: left;
+}
